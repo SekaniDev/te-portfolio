@@ -34,10 +34,10 @@ Data: fees and volume from Dune, TVL and fee APY from DeFiLlama, ETH prices from
 
 | Strategy | Liquidity multiplier | Days in range | Fees | IL | Net vs HODL |
 |---|---|---|---|---|---|
-| v2 full range | 1x | 100% | 3.3% | -1.3% | +2.0% |
-| v3 ±5% | 40.5x | 18% | 21.5% | -15.0% | +6.5% |
-| v3 ±20% | 10.4x | 42% | 16.5% | -11.4% | +5.2% |
-| v3 ±50% | 4.2x | 91% | 13.3% | -5.9% | +7.4% |
+| v2 full range | 1x | 100% | 3.3% | -1.4% | +1.9% |
+| v3 ±5% | 40.5x | 9% | 9.5% | -15.4% | -5.9% |
+| v3 ±20% | 10.4x | 42% | 16.5% | -11.8% | +4.8% |
+| v3 ±50% | 4.2x | 86% | 12.8% | -6.2% | +6.7% |
 
 **Takeaway:** narrower ranges earn much more per day in range, but they spend more time out of range and carry more IL. In this window the widest tested range (±50%) delivered the best net result. The break-even depends on expected fee income relative to expected price movement.
 
