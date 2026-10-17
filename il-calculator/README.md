@@ -2,7 +2,7 @@
 
 A parameterized impermanent loss (IL) calculator for Uniswap v2 and v3, plus a 90-day empirical comparison of LP returns on the ETH/USDC 0.05% pool using real fee, TVL and price data.
 
-**Live calculator:** [add link after the web calculator is built]
+**Live calculator:**
 **Dune query (daily volume and fees):** https://dune.com/queries/8923955
 
 ## What's in this repo
